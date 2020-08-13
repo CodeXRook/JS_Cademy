@@ -10,4 +10,4 @@
 //Object (collection of related data)
 
 
-
+console.log('JavaScript');
